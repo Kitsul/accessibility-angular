@@ -1,0 +1,23 @@
+{
+  "name": "@accessibility/lib",
+  "version": "0.0.1",
+  "private": true,
+  "peerDependencies": {
+    "@angular/core": "^5.2.0",
+    "@angular/common": "^5.2.0",
+    "bootstrap": "^3.3.7"
+  },
+  "main": "bundles/accessibility-lib.umd.js",
+  "module": "fesm5/accessibility-lib.js",
+  "es2015": "fesm2015/accessibility-lib.js",
+  "esm5": "esm5/accessibility-lib.js",
+  "esm2015": "esm2015/accessibility-lib.js",
+  "fesm5": "fesm5/accessibility-lib.js",
+  "fesm2015": "fesm2015/accessibility-lib.js",
+  "typings": "accessibility-lib.d.ts",
+  "metadata": "accessibility-lib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.7.1"
+  }
+}

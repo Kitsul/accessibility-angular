@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { AccessibilityModule } from './public_api';
+export { AccessibilityComponent as ɵa } from './accessibility/accessibility.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWNjZXNzaWJpbGl0eS1saWIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AYWNjZXNzaWJpbGl0eS9saWIvIiwic291cmNlcyI6WyJhY2Nlc3NpYmlsaXR5LWxpYi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsb0NBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxzQkFBc0IsSUFBSSxFQUFFLEVBQUMsTUFBTSx5Q0FBeUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWNfYXBpJztcblxuZXhwb3J0IHtBY2Nlc3NpYmlsaXR5Q29tcG9uZW50IGFzIMm1YX0gZnJvbSAnLi9hY2Nlc3NpYmlsaXR5L2FjY2Vzc2liaWxpdHkuY29tcG9uZW50JzsiXX0=
